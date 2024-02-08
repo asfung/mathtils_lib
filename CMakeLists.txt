@@ -11,7 +11,7 @@ add_library(MTK STATIC lib/mtklib/OperasiMtkImpl.cxx)
 
 project(meth-lib)
 set(
-    SOURCES src/main.cpp
+    SOURCES src/main_ori.cpp
             lib/mtklib/OperasiMtk.h
             lib/mtklib/OperasiMtkImpl.cxx
 )
