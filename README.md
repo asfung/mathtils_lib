@@ -2,6 +2,15 @@
 
 setup: 
 - clone this repo 
-- grant for user privilege ```$ chmod +x setupcompile.sh run.sh```
-- run ```$ ./setupcompile.sh```
-- to see the output just type ```$ ./run.sh```
+- grant for user privilege
+  ```bash
+  $ chmod +x setupcompile.sh run.sh
+  ```
+- run
+  ```bash
+  $ ./setupcompile.sh
+  ```
+- to see the output just type
+  ```bash
+  $ ./run.sh
+  ```
